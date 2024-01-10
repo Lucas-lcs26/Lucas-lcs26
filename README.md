@@ -21,8 +21,8 @@ Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaix
 </br>
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-lcs26&show_icons=true&theme=dark)](https://github.com/Lucas-lcs26/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lcs26&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-lcs26&show_icons=true&theme=transparent)](https://github.com/Lucas-lcs26/github-readme-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lcs26&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Me encontre em:
 
