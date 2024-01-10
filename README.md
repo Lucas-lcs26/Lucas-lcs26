@@ -24,7 +24,7 @@ Trabalhei 9 anos em um escritorio de previdencia privada, mas sempre fui apaixon
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-lcs26&show_icons=true&theme=dark)](https://github.com/Lucas-lcs26/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lcs26&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Me encntre em:
+## Me encontre em:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-coutinho-2a258317a/) &nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucas_lcs26/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:lucas.lcs26@yahoo.com.br)&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://cursos.alura.com.br/user/lucas-lcs26"> <img alt= "Perfil Alura" align="" src= "https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width="50" height="50"></a> <a href="https://wa.me/5548999341647"> <img alt= "Whatsapp" align="" src= "https://i.pinimg.com/originals/68/51/2b/68512b9e63c14816b1b2828968066205.png" width="70" height="50">
