@@ -1,4 +1,4 @@
-# Olá! Eu sou o Lucas Coutinho 👋
+# Olá, eu sou Lucas Coutinho! 👋
 
 Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Atualmente estou fazendo minha transição de carreira para T.I., mais especificamente em análise de dados e desenvolvimento.
 
