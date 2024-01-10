@@ -18,6 +18,8 @@ Trabalhei 9 anos em um escritorio de previdencia privada, mas sempre fui apaixon
   <img alt= "PowerBI" align="center" src= "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" >
 
 </br>
+</br>
+</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-lcs26&show_icons=true&theme=dark)](https://github.com/Lucas-lcs26/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lcs26&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
