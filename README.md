@@ -1,6 +1,6 @@
 # Olá! Eu sou o Lucas Coutinho 👋
 
-Trabalhei 9 anos em um escritorio de previdencia privada, mas sempre fui apaixonado por tecnologia. Atualmente estou fazendo minha transição de carreira para T.I., mais especificamente em análise de dados e desenvolvimento.
+Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Atualmente estou fazendo minha transição de carreira para T.I., mais especificamente em análise de dados e desenvolvimento.
 
 ## Tecnologias que já domino:
 
