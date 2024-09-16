@@ -2,16 +2,13 @@
 
 Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Atualmente estou fazendo minha transição de carreira para T.I., mais especificamente em análise de dados e desenvolvimento.
 
-## Tecnologias que já domino:
+## Tecnologias e ferramentas:
 
 <div style="display: inline_block"></br>
     <img alt= "Excel" align="center" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" >
     <img alt= "Outlook" align="center" src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" >
     <img alt= "JupyterNotebook" align="center" src= "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" >
     <img alt= "Python" align="center" src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" >
-    
-
-## Tecnologias que estou aprendendo:
 <div style="display: inline_block"></br>
   <img alt= "Python" align="center" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" >
   <img alt= "SQL" align="center" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
