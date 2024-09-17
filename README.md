@@ -1,8 +1,10 @@
 
 
+<img src="https://github.com/Lucas-lcs26/Lucas-lcs26/blob/main/gif_recortado_central_fino.gif" align = "right" alt="Descrição da imagem" width="100%"/>
+
+
 # Olá, eu sou Lucas Coutinho! <img src="https://github.com/user-attachments/assets/43b22337-7aff-4b29-93f4-a9e74753d93d" width="55" />
 
-<img src="https://github.com/user-attachments/assets/881e26e2-8d75-49d2-94fd-aa6d2a4ab913" align = "right" alt="Descrição da imagem" width="250"/>
 
 ### Seja muito bem vindo(a)!
 
@@ -38,18 +40,17 @@ Sou curioso e adoro novos desafios.
     <img alt="streamlit" align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
     <img alt="pydeck" align="center" src="https://img.shields.io/badge/PyDeck-4A90E2?style=for-the-badge&logo=pydeck&logoColor=white">
     <img alt="scipy" align="center" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
+    <img alt="scikit-learn" align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </div>   
 <div style="display: inline_block; margin-bottom: 0; padding: 0;">
-    <img alt="scikit-learn" align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img alt="folium" align="center" src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white">
     <img alt="geopandas" align="center" src="https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white">
     <img alt="leaflet" align="center" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white">
-</div>
-<div style="display: inline_block; margin-bottom: 0; padding: 0;">
     <img alt="matplotlib" align="center" src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white">
     <img alt="seaborn" align="center" src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge&logo=seaborn&logoColor=white">
     <img alt="plotly" align="center" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-</div>   
+</div>
+
 
 ### **Estações de Trabalho:**    
 <div style="display: inline_block; margin-bottom: 0; padding: 0;"> 
