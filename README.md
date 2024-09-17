@@ -7,7 +7,7 @@ Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaix
 
 
 ## Tecnologias e ferramentas:
-<img src="https://github.com/user-attachments/assets/881e26e2-8d75-49d2-94fd-aa6d2a4ab913" align = "right" alt="Descrição da imagem" width="450"/>
+<img src="https://github.com/user-attachments/assets/881e26e2-8d75-49d2-94fd-aa6d2a4ab913" align = "right" alt="Descrição da imagem" width="350"/>
 
 ### **Principais:**
 <div style="display: inline_block; margin-bottom: 0; padding: 0;">
