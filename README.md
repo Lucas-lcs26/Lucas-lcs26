@@ -1,9 +1,13 @@
 
 
 # Olá, eu sou Lucas Coutinho! 👋
-### Muito bem vindo(a)!
+### Seja muito bem vindo(a)!
 
-Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Então, em set/23 decidi mergulhar de cabeça na minha nova carreira. E sigo amando! Cada dia aprendendo algo novo. É muito legal programar! Como fiquei longe disso por tanto tempo?!
+Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Então, em set/23 decidi mergulhar de cabeça na minha nova carreira. Cada dia aprendendo algo novo. E sigo amando!❤️
+
+
+É muito legal programar! Como fiquei longe disso por tanto tempo?!
+Sou curioso e adoro novos desafios.
 
 
 ## Tecnologias e ferramentas:
