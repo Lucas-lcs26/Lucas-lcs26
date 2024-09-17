@@ -1,7 +1,7 @@
 <img src="https://github.com/Lucas-lcs26/Lucas-lcs26/blob/main/gif_recortado_central_fino.gif" align = "right" alt="Descrição da imagem" width="100%"/>
 
 
-# Olá, eu sou Lucas! <img src="https://github.com/user-attachments/assets/43b22337-7aff-4b29-93f4-a9e74753d93d" align="center" width="45" />
+# Olá, eu sou o Lucas! <img src="https://github.com/user-attachments/assets/43b22337-7aff-4b29-93f4-a9e74753d93d" align="center" width="45" />
 
 
 ### Seja muito bem vindo(a)!
