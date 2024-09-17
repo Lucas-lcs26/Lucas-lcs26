@@ -1,7 +1,7 @@
 <img src="https://github.com/Lucas-lcs26/Lucas-lcs26/blob/main/gif_recortado_central_fino.gif" align = "right" alt="Descrição da imagem" width="100%"/>
 
 
-# Olá, eu sou Lucas Coutinho! <img src="https://github.com/user-attachments/assets/43b22337-7aff-4b29-93f4-a9e74753d93d" align="top" width="45" />
+# Olá, eu sou Lucas Coutinho! <img src="https://github.com/user-attachments/assets/43b22337-7aff-4b29-93f4-a9e74753d93d" align="center" width="45" />
 
 
 ### Seja muito bem vindo(a)!
@@ -32,13 +32,16 @@ Sou curioso e adoro novos desafios.
  </div>   
 
 ### **Bibliotecas e Frameworks:**
-<div style="display: inline_block; margin-bottom: 0; padding: 0;">
+<div style="display: inline_block;">
     <img alt="pandas" align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
     <img alt="numpy" align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
     <img alt="streamlit" align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
     <img alt="pydeck" align="center" src="https://img.shields.io/badge/PyDeck-4A90E2?style=for-the-badge&logo=pydeck&logoColor=white">
     <img alt="scipy" align="center" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
     <img alt="scikit-learn" align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</div>
+
+<div style="display: inline_block;">
     <img alt="folium" align="center" src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white">
     <img alt="geopandas" align="center" src="https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white">
     <img alt="leaflet" align="center" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white">
