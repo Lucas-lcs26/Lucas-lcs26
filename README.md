@@ -61,7 +61,7 @@ Sou curioso e adoro novos desafios.
 
 
 ## Projetos:
-- [Análise das Notas do ENEM para Entender o Impacto da Pandemia no Ensino Médio brasileiro - Medium](m.com/@lucas_lcs26/análise-das-notas-do-enem-para-entender-o-impacto-do-covid-19-no-ensino-médio-brasileiro-c1c954d99f60)
+- [Análise das Notas do ENEM para Entender o Impacto da Pandemia no Ensino Médio brasileiro - Medium](https://medium.com/@lucas_lcs26/an%C3%A1lise-das-notas-do-enem-para-entender-o-impacto-do-covid-19-no-ensino-m%C3%A9dio-brasileiro-c1c954d99f60)
 - [Aplicativo: Buscador de Imovéis de Leilão - Streamlit](http://imoveis-leiloes-caixa.streamlit.app/)
 </br>
 </br>
