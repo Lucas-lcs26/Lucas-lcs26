@@ -1,42 +1,75 @@
-# Olá, eu sou Lucas Coutinho! 👋
 
-Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Atualmente estou fazendo minha transição de carreira para T.I., mais especificamente em análise de dados e desenvolvimento.
+
+# Olá, eu sou Lucas Coutinho! 👋
+### Muito bem vindo(a)!
+
+Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Então, em set/23 decidi mergulhar de cabeça na minha nova carreira. E sigo amando! Cada dia aprendendo algo novo. É muito legal programar! Como fiquei longe disso por tanto tempo?!
+
 
 ## Tecnologias e ferramentas:
+<img src="https://github.com/user-attachments/assets/881e26e2-8d75-49d2-94fd-aa6d2a4ab913" align = "right" alt="Descrição da imagem" width="450"/>
 
-<div style="display: inline_block"></br>
+### **Principais:**
+<div style="display: inline_block; margin-bottom: 0; padding: 0;">
+    <img alt= "Python" align="center" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" >
+    <img alt="Postgre" align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt= "PowerBI" align="center" src= "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" >
     <img alt= "Excel" align="center" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" >
-    <img alt= "Outlook" align="center" src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" >
+</div>
+
+### **Secundárias:**
+<div style="display: inline_block; margin-bottom: 0; padding: 0;">
+    <img alt="html" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt= "SQL" align="center" src= "https://img.shields.io/badge/SQLite-00000F?style=for-the-badge&logo=SQLITE&logoColor=white">
+    <img alt="GoogleCoud" align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img alt= "Oracle" align="center" src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+    
+ </div>   
+
+### **Bibliotecas e Frameworks:**
+<div style="display: inline_block; margin-bottom: 0; padding: 0;">
+    <img alt="pandas" align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+    <img alt="numpy" align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+    <img alt="streamlit" align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+    <img alt="pydeck" align="center" src="https://img.shields.io/badge/PyDeck-4A90E2?style=for-the-badge&logo=pydeck&logoColor=white">
+    <img alt="scipy" align="center" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
+</div>   
+<div style="display: inline_block; margin-bottom: 0; padding: 0;">
+    <img alt="scikit-learn" align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img alt="folium" align="center" src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white">
+    <img alt="geopandas" align="center" src="https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white">
+    <img alt="leaflet" align="center" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white">
+</div>
+<div style="display: inline_block; margin-bottom: 0; padding: 0;">
+    <img alt="matplotlib" align="center" src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white">
+    <img alt="seaborn" align="center" src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge&logo=seaborn&logoColor=white">
+    <img alt="plotly" align="center" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+</div>   
+
+### **Estações de Trabalho:**    
+<div style="display: inline_block; margin-bottom: 0; padding: 0;"> 
+    <img alt="VSCode" align="center" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt= "Colab" align="center" src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" >
     <img alt= "JupyterNotebook" align="center" src= "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" >
-    <img alt= "Python" align="center" src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" >
-<div style="display: inline_block"></br>
-  <img alt= "Python" align="center" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" >
-  <img alt= "SQL" align="center" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt= "PowerBI" align="center" src= "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" >
+    <img alt="Git" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </br>
 </br>
 </br>
+</br>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/Lucas-lcs26/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lucas-lcs26&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lcs26&layout=compact&theme=transparent" alt="Top Langs">
+  </a>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-lcs26&show_icons=true&theme=transparent)](https://github.com/Lucas-lcs26/github-readme-stats) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lcs26&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Me encontre em:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-coutinho-2a258317a/) &nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucas_lcs26/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:lucas.lcs26@yahoo.com.br)&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://cursos.alura.com.br/user/lucas-lcs26"> <img alt= "Perfil Alura" align="" src= "https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width="50" height="50"></a> <a href="https://wa.me/5548999341647"> <img alt= "Whatsapp" align="" src= "https://i.pinimg.com/originals/68/51/2b/68512b9e63c14816b1b2828968066205.png" width="70" height="50">
 
-<!--
-**Lucas-lcs26/Lucas-lcs26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" alt="Descrição da imagem" width="1000" height= "200"/>
