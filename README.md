@@ -1,6 +1,9 @@
 
 
-# Olá, eu sou Lucas Coutinho! 👋
+# Olá, eu sou Lucas Coutinho! <img src="https://github.com/user-attachments/assets/43b22337-7aff-4b29-93f4-a9e74753d93d" width="55" />
+
+<img src="https://github.com/user-attachments/assets/881e26e2-8d75-49d2-94fd-aa6d2a4ab913" align = "right" alt="Descrição da imagem" width="250"/>
+
 ### Seja muito bem vindo(a)!
 
 Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Então, em set/23 decidi mergulhar de cabeça na minha nova carreira. Cada dia aprendendo algo novo. E sigo amando!❤️
@@ -10,7 +13,6 @@ Sou curioso e adoro novos desafios.
 
 
 ## Tecnologias e ferramentas:
-<img src="https://github.com/user-attachments/assets/881e26e2-8d75-49d2-94fd-aa6d2a4ab913" align = "right" alt="Descrição da imagem" width="330"/>
 
 ### **Principais:**
 <div style="display: inline_block; margin-bottom: 0; padding: 0;">
@@ -55,6 +57,8 @@ Sou curioso e adoro novos desafios.
     <img alt= "Colab" align="center" src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" >
     <img alt= "JupyterNotebook" align="center" src= "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" >
     <img alt="Git" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+
 
 ## Projetos:
 - [Análise das Notas do ENEM para Entender o Impacto da Pandemia no Ensino Médio brasileiro - Medium](m.com/@lucas_lcs26/análise-das-notas-do-enem-para-entender-o-impacto-do-covid-19-no-ensino-médio-brasileiro-c1c954d99f60)
