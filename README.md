@@ -7,7 +7,7 @@ Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaix
 
 
 ## Tecnologias e ferramentas:
-<img src="https://github.com/user-attachments/assets/881e26e2-8d75-49d2-94fd-aa6d2a4ab913" align = "right" alt="Descrição da imagem" width="350"/>
+<img src="https://github.com/user-attachments/assets/881e26e2-8d75-49d2-94fd-aa6d2a4ab913" align = "right" alt="Descrição da imagem" width="320"/>
 
 ### **Principais:**
 <div style="display: inline_block; margin-bottom: 0; padding: 0;">
@@ -71,5 +71,3 @@ Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaix
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-coutinho-2a258317a/) &nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucas_lcs26/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:lucas.lcs26@yahoo.com.br)&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://cursos.alura.com.br/user/lucas-lcs26"> <img alt= "Perfil Alura" align="" src= "https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width="50" height="50"></a> <a href="https://wa.me/5548999341647"> <img alt= "Whatsapp" align="" src= "https://i.pinimg.com/originals/68/51/2b/68512b9e63c14816b1b2828968066205.png" width="70" height="50">
-
-<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" alt="Descrição da imagem" width="1000" height= "200"/>
