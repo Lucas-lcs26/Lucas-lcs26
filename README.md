@@ -3,11 +3,11 @@
 # Olá, eu sou Lucas Coutinho! 👋
 ### Seja muito bem vindo(a)!
 
-Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Então, em set/23 decidi mergulhar de cabeça na minha nova carreira. Cada dia aprendendo algo novo. E sigo amando!❤️
+#### Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Então, em set/23 decidi mergulhar de cabeça na minha nova carreira. Cada dia aprendendo algo novo. E sigo amando!❤️
 
 
-É muito legal programar! Como fiquei longe disso por tanto tempo?!
-Sou curioso e adoro novos desafios.
+#### É muito legal programar! Como fiquei longe disso por tanto tempo?!
+#### Sou curioso e adoro novos desafios.
 
 
 ## Tecnologias e ferramentas:
@@ -58,8 +58,8 @@ Sou curioso e adoro novos desafios.
     <img alt="Git" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 ## Projetos:
-- [Análise das Notas do ENEM para Entender o Impacto da Pandemia no Ensino Médio brasileiro - Medium](m.com/@lucas_lcs26/análise-das-notas-do-enem-para-entender-o-impacto-do-covid-19-no-ensino-médio-brasileiro-c1c954d99f60)
-- [Aplicativo: Buscador de Imovéis de Leilão - Streamlit](http://imoveis-leiloes-caixa.streamlit.app/)
+#### - [Análise das Notas do ENEM para Entender o Impacto da Pandemia no Ensino Médio brasileiro - Medium](m.com/@lucas_lcs26/análise-das-notas-do-enem-para-entender-o-impacto-do-covid-19-no-ensino-médio-brasileiro-c1c954d99f60)
+#### - [Aplicativo: Buscador de Imovéis de Leilão - Streamlit](http://imoveis-leiloes-caixa.streamlit.app/)
 </br>
 </br>
 <div style="display: flex; justify-content: space-between;">
