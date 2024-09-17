@@ -53,8 +53,9 @@ Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaix
     <img alt= "JupyterNotebook" align="center" src= "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" >
     <img alt="Git" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
-</br>
-</br>
+## Projetos:
+- [Análise das Notas do ENEM para Entender o Impacto da Pandemia no Ensino Médio brasileiro - Medium](m.com/@lucas_lcs26/análise-das-notas-do-enem-para-entender-o-impacto-do-covid-19-no-ensino-médio-brasileiro-c1c954d99f60)
+- [Aplicativo: Buscador de Imovéis de Leilão - Streamlit](http://imoveis-leiloes-caixa.streamlit.app/)
 </br>
 </br>
 <div style="display: flex; justify-content: space-between;">
