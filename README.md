@@ -6,7 +6,7 @@
 
 ### Seja muito bem vindo(a)!
 
-Trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Então, em set/23 decidi mergulhar de cabeça na minha nova carreira. Cada dia aprendendo algo novo. E sigo amando!❤️
+Sou economista, trabalhei 9 anos em um escritório de previdência privada, mas sempre fui apaixonado por tecnologia. Então, em set/23 decidi mergulhar de cabeça na minha nova carreira. Cada dia aprendendo algo novo. E sigo amando!❤️
 
 É muito legal programar! Como fiquei longe disso por tanto tempo?!
 Sou curioso e adoro novos desafios.
